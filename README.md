@@ -16,6 +16,14 @@ This project aims to create a web interface that allows users to predict doctor 
 - Employed web scraping techniques, utilizing Python, BeautifulSoup,
 and Selenium, to systematically extract and preprocess doctor-related
 data from the Practo website.
+![Screenshot (1727)](https://github.com/Aayush-Chourasiya/Doctor_fees_prediction_ML_project/assets/133970565/fd744a73-023d-4532-a50c-26fffe7c703b)
+
+![Screenshot (1729)](https://github.com/Aayush-Chourasiya/Doctor_fees_prediction_ML_project/assets/133970565/24ba8863-dcfa-4c53-9d71-68f569e56545)
+f5a874)
+![Screenshot (1730)](https://github.com/Aayush-Chourasiya/Doctor_fees_prediction_ML_project/assets/133970565/92225c3c-caac-4a03-b13a-d8db98c529a5)
+
+
+
 - Implemented various machine-learning models on the acquired dataset
 to establish predictive models for estimating doctor's consultation fees.
 - Developed an interactive web application equipped with user-selectable features such as Doctor's Education, City, and
