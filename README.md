@@ -4,12 +4,25 @@ This project aims to create a web interface that allows users to predict doctor 
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **Dataset Folder** | This folder provides data state wise and district wise data in csv format |
-| **Python File** | This contains the .ipynb file of the analysis for Data Extract, Data cleaning, EDA and ML Models.  |
+| **Dataset Folder** | This folder provides data state and district-wise data in CSV format |
+| **Python File** | This contains the .ipynb file of the analysis for Data extraction, Data cleaning, EDA, and ML Models.  |
+
 
 <br>
 
 <p align="center"><img src="https://i.pinimg.com/originals/13/66/c9/1366c95f8c249b8422d2caaae287cb63.gif" width="400" ></p>
+
+## Description
+- Employed web scraping techniques, utilizing Python, BeautifulSoup,
+and Selenium, to systematically extract and preprocess doctor-related
+data from the Practo website.
+- Implemented various machine-learning models on the acquired dataset
+to establish predictive models for estimating doctor's consultation fees.
+- Developed an interactive web application equipped with user-selectable features such as Doctor's Education, City, and
+Specialty, enabling users to access real-time consultation fee estimates.
+- Tech Stack - Python, BeautifulSoup, Selenium, Seaborn, Matplotlib,
+SQL, Excel, Power BI, Machine Learning.
+
 
    
 ## Findings from the Doctor Fee Prediction Project 🧪
